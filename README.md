@@ -30,7 +30,7 @@ We aim to determine whether past price patterns can help:
 
 Dataset used:
 
-:contentReference[oaicite:0]{index=0}
+https://huggingface.co/datasets/paperswithbacktest/Stocks-Daily-Price?
 
 ---
 
