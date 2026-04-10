@@ -1,5 +1,5 @@
 Stock Market Prediction Using Machine Learning
-👤 Name: YOUR NAME HERE
+👤 Name: Chris Hu
 📌 1. Project Overview
 
 This project explores whether machine learning models can use historical stock market data to analyze and predict stock behavior. Using real-world financial data, we investigate whether past prices can help:
