@@ -13,7 +13,7 @@ This project explores whether machine learning models can use historical stock m
 
 We use real-world stock data from the Hugging Face dataset:
 
-entity["dataset","Stocks Daily Price Dataset","Hugging Face paperswithbacktest dataset"]
+["dataset","Stocks Daily Price Dataset","Hugging Face paperswithbacktest dataset"]
 
 This dataset includes daily stock values such as:
 
