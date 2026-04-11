@@ -177,6 +177,14 @@ AI-assisted README
 
 ---
 
+## 📉 Visualization 2: Actual vs Predicted
+![Predictions](actual_vs_predicted.png)
+
+## 📈 Visualization 1: Stock Price Trend
+![Stock Trend](stock_trend.png)
+
+---
+
 # 📌 Summary
 
 This project demonstrates how machine learning can be applied to financial data, while also highlighting the limitations of predicting complex real-world systems like the stock market.
