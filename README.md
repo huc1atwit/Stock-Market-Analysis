@@ -177,10 +177,10 @@ AI-assisted README
 
 ---
 
-## 📉 Visualization 2: Actual vs Predicted
+## 📉 Visualization 1: Actual vs Predicted
 ![Predictions](actual_vs_predicted.png)
 
-## 📈 Visualization 1: Stock Price Trend
+## 📈 Visualization 2: Stock Price Trend
 ![Stock Trend](stock_trend.png)
 
 ---
